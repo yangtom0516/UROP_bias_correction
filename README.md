@@ -11,7 +11,7 @@ We explore how well DeepSensor removes artificially injected biases in precipita
 ## Data
 
 - **Source**: CFS Precipitation data (2012–2014)
-- **Format**: `.nc` Zarr files
+- **Format**: Zarr files
 - **Variables**: Precipitation (accumulated), with lat/lon grid coordinates
 
 ## Methodology
@@ -30,4 +30,6 @@ We explore how well DeepSensor removes artificially injected biases in precipita
 - Evaluation plots demonstrate lower uncertainty and error in corrected outputs under structured biases.
 
 ## Author
-Zhichen Yang, Haorui Wang, Dani Jones
+- [Zhichen Yang](mailto:yangtom@umich.edu)  
+- [Haorui Wang](mailto:whruiray@umich.edu)  
+- [Dani Jones (Project Instructor)](mailto:dannes@umich.edu)
